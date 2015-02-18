@@ -34,4 +34,4 @@ REX inventaire.io
 
 [Maxime Lathuilière](https://twitter.com/maxlath)
 
-De l'idée à la réalisation, tâtonnement inclus, avec le détail du choix d'aussi peu de magie que possible pour comprendre et débugger facilement.
+De l'idée à la réalisation, tâtonnement inclus, avec le détail du choix d'aussi peu de magie que possible pour comprendre et débugger facilement. [Présentation](http://profile.maxlath.eu/slides/backbone-meetup/)
